@@ -20,13 +20,13 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 • Total Transaction Amt & Count increased by 2.2% & 1.74%.<br>
 • Customer count increased by 1.80%.<br>
 
-Overview YTD:<br>
-• Overall revenue is 57M.<br>
-• Total interest is 8M.<br>
-• Total transaction amount is 46M.<br>
-• Male customers are contributing more in revenue 31M, female 26M.<br>
-• Blue & Silver credit card are contributing to 93% of overall transactions.<br>
-• TX, NY & CA is contributing to 68%.<br>
-• Overall Activation rate is 57.5%.<br>
-• Overall Delinquent rate is 6.06%.<br>
+###Overview YTD:<br>
+•  Overall revenue is 57M.<br>
+•  Total interest is 8M.<br>
+•  Total transaction amount is 46M.<br>
+•  Male customers are contributing more in revenue 31M, female 26M.<br>
+•  Blue & Silver credit card are contributing to 93% of overall transactions.<br>
+•  TX, NY & CA is contributing to 68%.<br>
+•  Overall Activation rate is 57.5%.<br>
+•  Overall Delinquent rate is 6.06%.<br>
 
