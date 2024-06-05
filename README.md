@@ -1,6 +1,9 @@
 # Credit Card Financial Dashboard
 This is a financial dashboard which has been made to dive deep into the data and generate meaningful insights.
 
+## Dashboard
+Dashboard Live [Link](https://app.powerbi.com/groups/me/reports/3efab802-fc7f-4264-b24d-a240780c40cc/ReportSection509710ec0b46b78d8c52?experience=power-bi)
+
 ## Project Objective
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.<br>
 
